@@ -72,3 +72,5 @@ Simple guide to apply the patch:<br>
 No Need to Donate 
 ### About Game Election
 The game election serves the purpose of allocating additional focus and resources to make them work. Sometimes, it means considerable efforts in researching, debugging and tracing the games to root cause the failures and come up with solutions. It is **optional** to make game election upon donation. My YouTube channel has video demos of games which already worked and more may be showing up periodically. It is typically a safe assumption that games using the same engine (IdTech1/2/3, LithTech, Unreal etc.) would also work, too. The 3 counts of eligibility would only be accounted once the game were made to work. If upgrades were neccessary, it would be a **free upgrade** for QEMU binary packages.
+### Prebuild QEMU
+I gonna build qemu-3dfx and release it!!!!!
